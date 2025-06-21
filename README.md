@@ -20,6 +20,7 @@ Menyediakan berbagai artikel, tips, dan kuis interaktif tentang pengelolaan samp
 🎁 Poin & Reward
 Pengguna mendapatkan poin dari aktivitas seperti menyetorkan sampah, melaporkan sampah liar, atau menjawab kuis. Poin dapat ditukar dengan reward menarik.
 
+![image](https://github.com/user-attachments/assets/8ce89f7f-dc8c-4020-bf8e-6f7608339357)
 ![image (2)](https://github.com/user-attachments/assets/ebe0fd55-67b2-44f7-94c2-a8246ccf14c7)
 ![image (3)](https://github.com/user-attachments/assets/e592857a-21cb-4c8c-887c-97df8a795932)
 ![image (4)](https://github.com/user-attachments/assets/43fb4924-d0f5-4668-85e8-b6faaf0826d7)
