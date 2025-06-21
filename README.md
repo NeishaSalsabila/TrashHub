@@ -23,5 +23,4 @@ Pengguna mendapatkan poin dari aktivitas seperti menyetorkan sampah, melaporkan 
 ![image (2)](https://github.com/user-attachments/assets/ebe0fd55-67b2-44f7-94c2-a8246ccf14c7)
 ![image (3)](https://github.com/user-attachments/assets/e592857a-21cb-4c8c-887c-97df8a795932)
 ![image (4)](https://github.com/user-attachments/assets/43fb4924-d0f5-4668-85e8-b6faaf0826d7)
-![WhatsApp Image 2024-06-05 at 15 19 02](https://github.com/user-attachments/assets/a2566c96-741e-4d55-ba86-e48727c04cfa)
 ![image (1)](https://github.com/user-attachments/assets/51a16ac6-bfd3-4c7d-9527-85b1b2f9c015)
